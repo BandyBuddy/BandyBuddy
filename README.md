@@ -1,6 +1,6 @@
 # BandyBuddy - The Future of Interactive Social Entertainment
 
-![BandyBuddy Logo](https://bandybuddy.com/images/logo.png)  <!-- Optional: Add your logo if you have one hosted -->
+![BandyBuddy Logo](https://bandybuddy.com/images/logo.png)] <!-- Optional: Add your logo if you have one hosted -->
 
 **Revolutionizing how venues deliver entertainment and how creators engage with music.**
 
